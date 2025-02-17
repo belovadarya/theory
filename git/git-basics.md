@@ -18,7 +18,9 @@
 
 ### **Merge** - слияние двух веток в одну. Чтобы объединить первую ветку со второй необходимо находиться в первой ветке
 
-Новые ветки объединяются в основной с помощью функции **"Pull request"**. Это позволяет другим участникам разработки проверить изменения в коде и одобрить их перед объединением с основной веткой
+Новые ветки объединяются с основной с помощью функции **"Pull request"**. Это позволяет другим участникам разработки проверить изменения в коде и одобрить их перед объединением с основной веткой
+
+Так же можно выполнить **Revert** определенного commit после Pull request. Revert автоматически создает новую ветку с commit в главную ветку, который удаляет внесенные с помощью Pull request изменения
 
 ### Как можно связать локальный и удаленный репозиторий?
 
@@ -46,4 +48,11 @@
 
 ![git-1](../img/git-1.png)
 
-Источники: https://www.youtube.com/watch?v=8Dd7KRpKeaE, https://www.youtube.com/watch?v=6i0Wg-Pohg8&list=PLzLiprpVuH8df24MzZp-l5QMsJWJbi9qP
+Поелзные материалы:
+
+- [Теория Git](https://lite.evernote.com/note/b1359883-2b9e-419a-b9de-dd959fc05f05)
+- [Основы Git. Учебник](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)
+- [The Git Community Book](https://uleming.github.io/gitbook/index.html)
+- Тренажеры по Git: [1](https://learngitbranching.js.org/?locale=ru_RU), [2](https://githowto.com/ru)
+
+Источники: [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE), [JS/FE Stage#0 2022Q2 Git for beginners](https://www.youtube.com/watch?v=6i0Wg-Pohg8&list=PLzLiprpVuH8df24MzZp-l5QMsJWJbi9qP)

@@ -1,6 +1,6 @@
 ## Навигация:
 
-1. Git
+1. [Git](https://github.com/belovadarya/theory/tree/main/Git)
 
 - [Начало работы с Git](#начало-работы-с-git)
     - [Виды конфигураций](#виды-конфигураций)
@@ -13,7 +13,7 @@
 - [Git комманды](#git-комманды)
 - [Полезные матриалы](#полезные-материалы)
 
-2. HTML
+2. [HTML](https://github.com/belovadarya/theory/tree/main/HTML)
 
   - [HTML](#html)
   - [Теги, вложенность тегов](#теги-вложенность-тегов)
